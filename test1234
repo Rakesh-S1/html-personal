@@ -1,0 +1,27 @@
+workspace student$ bash collect_evidence.sh 
+API key loaded from terminal environment (50 characters), base URL: https://claude.vocareum.com
+API key check: OK
+S1=/workspace/Build a Claims Intake Agent with a stop_reason-Driven Loop/exercises/03-dynamic-decomposition/solution
+S2=/workspace/Engineer a Long-Conversation Context Strategy for a Retail Support Copilot/04-assemble-and-locate/solution
+S3=/workspace/Configure Claude Code for a Multi-Surface Monorepo Team/04-plan-mode-and-explore-decision-doc/solution
+S4=/workspace/Build a Multi-Shift Quality Monitoring System with Claude Orchestration/04-fork-scratchpad/solution
+HARNESS=/workspace/Project-Harness Engineering with Claude and Claude Code
+[system1] tests.log -> exit 0
+[system2] tests_before_run.log -> exit 0
+[system2] run.log -> exit 0
+[system2] tests.log -> exit 0
+[system3] tests.log -> exit 0
+[system3] validator.log -> exit 0
+[system4] tests.log -> exit 0
+[system4] seed_warm_tier.log -> exit 0
+[system4] run_shift.log -> exit 0
+[system4] cli_help.log -> exit 0
+./data/shift_scratchpad.jsonl
+
+Done. Download: /workspace/capstone_evidence.tar.gz (141034 bytes)
+============================== 30 passed in 0.68s ==============================
+============================== 30 passed in 2.99s ==============================
+======================== 28 passed, 2 skipped in 2.97s =========================
+============================== 35 passed in 0.24s ==============================
+============================== 33 passed in 0.76s ==============================
+# exit code: 0
